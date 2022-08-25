@@ -15,8 +15,8 @@ Tampilan Awal
 <img width="1440" alt="Screen Shot 2022-08-24 at 16 08 58" src="https://user-images.githubusercontent.com/47437630/186380960-1ed5c8db-f750-4ee3-9fc2-aab48a97c148.png">
 
 
-Tampilan Anggota
-![Screen Shot 2022-08-24 at 16 18 41](https://user-images.githubusercontent.com/47437630/186381096-2dcaa4c3-c9ab-4a50-b4c0-fb4feddef272.png)
+Tampilan Anggota serta Live search dengan Ajax
+![Screen Shot 2022-08-25 at 10 47 51](https://user-images.githubusercontent.com/47437630/186570233-938e1723-d963-4280-b0c8-b0e46b2158af.png)
 
 
 Tampilan Buku yang tersedia
